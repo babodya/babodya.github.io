@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 50px;
+        fill: #fff;
+        font-family: EmojiOneColor, EmojiOne;
+      }
+
+      .cls-2 {
+        font-family: "MV Boli";
+      }
+    </style>
+  </defs>
+  <image id="Background" width="100" height="100" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAA8UlEQVR4nO3RQQHAQAwEobT+Pe/Z4DFY4Nu2C+OvwlIIphBMIZhCMIVgCsEUgikEUwimEEwhmEIwhWAKwRSCKQRTCKYQTCGYQjCFYArBFIIpBFMIphBMIZhCMIVgCsEUgikEUwimEEwhmEIwhWAKwRSCKQRTCKYQTCGYQjCFYArBFIIpBFMIphBMIZhCMIVgCsEUgikEUwimEEwhmEIwhWAKwRSCKQRTCKYQTCGYQjCFYArBFIIpBFMIphBMIZhCMIVgCsEUgikEUwimEEwhmEIwhWAKwRSCKQRTCKYQTCGYQjCFYArBFIIpBFMIphDJ3T0IYATEmP4svAAAAABJRU5ErkJggg=="/>
+  <text id="_Lorem_Ipsum" data-name="🏡Lorem Ipsum" class="cls-1" x="22.371" y="67.192">🏡<tspan class="cls-2">Lorem Ipsum</tspan></text>
+</svg>
